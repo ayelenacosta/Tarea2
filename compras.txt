@@ -3,3 +3,5 @@ Hilos
 Elásticos
 Cordón
 Agujas
+Apliques
+Herrajes
