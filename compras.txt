@@ -1,3 +1,5 @@
 Botones
 Hilos 
 Elásticos
+Cordón
+Agujas
